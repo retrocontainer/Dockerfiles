@@ -1,5 +1,5 @@
 FROM debian
-MAINTAINER nils <nils@datenvandalismus.org>
+MAINTAINER retrocontainer <retrocontainer@retrocontainer.net>
 
 RUN apt-get update && apt-get install -y \
         x11-apps \
